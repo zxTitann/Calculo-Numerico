@@ -7,7 +7,7 @@ def derive(f, x): #Inserindo a função e o ponto que queremos derivar
 
 #Testando a funcao
 resultado, h = derive(lambda x: x**2, 2)
-print("//////////////////////////")
+print("///////////////////////////")
 print(f"Derivada de x^2 em x=2: {resultado}")
 print(f"Tamanho do passo: {h}")
-print("//////////////////////////")
+print("///////////////////////////")

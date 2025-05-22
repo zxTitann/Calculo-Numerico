@@ -28,4 +28,4 @@ def animate(scene):
     scene.render()
 
 # Execute a animação
-animate(scene)
+animate(scene) # Execute a animação
